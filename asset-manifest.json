@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TheAfterHoursClub/static/css/main.5f361e03.chunk.css",
+    "main.js": "/TheAfterHoursClub/static/js/main.9e9c80a2.chunk.js",
+    "main.js.map": "/TheAfterHoursClub/static/js/main.9e9c80a2.chunk.js.map",
+    "runtime-main.js": "/TheAfterHoursClub/static/js/runtime-main.8336cb22.js",
+    "runtime-main.js.map": "/TheAfterHoursClub/static/js/runtime-main.8336cb22.js.map",
+    "static/js/2.eb9aa5e8.chunk.js": "/TheAfterHoursClub/static/js/2.eb9aa5e8.chunk.js",
+    "static/js/2.eb9aa5e8.chunk.js.map": "/TheAfterHoursClub/static/js/2.eb9aa5e8.chunk.js.map",
+    "index.html": "/TheAfterHoursClub/index.html",
+    "precache-manifest.94f8f420656e198df90c208aea20363f.js": "/TheAfterHoursClub/precache-manifest.94f8f420656e198df90c208aea20363f.js",
+    "service-worker.js": "/TheAfterHoursClub/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/TheAfterHoursClub/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb9aa5e8.chunk.js.LICENSE.txt": "/TheAfterHoursClub/static/js/2.eb9aa5e8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TheAfterHoursClub/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8336cb22.js",
+    "static/js/2.eb9aa5e8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9e9c80a2.chunk.js"
+  ]
+}
