@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97c2b80370952d5a2e1a4f7e54e7bdcd",
+    "revision": "5cf58195701777b13d3f803bf5d44b6f",
     "url": "/TheAfterHoursClub/index.html"
   },
   {
-    "revision": "157ea0e897af0cbc704b",
+    "revision": "e74e705e958fe906ff0f",
     "url": "/TheAfterHoursClub/static/css/main.85d6a166.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TheAfterHoursClub/static/js/2.563d57ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "157ea0e897af0cbc704b",
-    "url": "/TheAfterHoursClub/static/js/main.044613b5.chunk.js"
+    "revision": "e74e705e958fe906ff0f",
+    "url": "/TheAfterHoursClub/static/js/main.d3812be3.chunk.js"
   },
   {
     "revision": "b60461f5c913e8141f8d",
