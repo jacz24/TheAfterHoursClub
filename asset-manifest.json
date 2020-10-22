@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TheAfterHoursClub/static/css/main.3bbb8174.chunk.css",
-    "main.js": "/TheAfterHoursClub/static/js/main.a028c87f.chunk.js",
-    "main.js.map": "/TheAfterHoursClub/static/js/main.a028c87f.chunk.js.map",
+    "main.css": "/TheAfterHoursClub/static/css/main.d949af80.chunk.css",
+    "main.js": "/TheAfterHoursClub/static/js/main.22946e89.chunk.js",
+    "main.js.map": "/TheAfterHoursClub/static/js/main.22946e89.chunk.js.map",
     "runtime-main.js": "/TheAfterHoursClub/static/js/runtime-main.8336cb22.js",
     "runtime-main.js.map": "/TheAfterHoursClub/static/js/runtime-main.8336cb22.js.map",
     "static/js/2.563d57ae.chunk.js": "/TheAfterHoursClub/static/js/2.563d57ae.chunk.js",
     "static/js/2.563d57ae.chunk.js.map": "/TheAfterHoursClub/static/js/2.563d57ae.chunk.js.map",
     "index.html": "/TheAfterHoursClub/index.html",
-    "precache-manifest.6922bc4e4453d82a863dd5894f58c196.js": "/TheAfterHoursClub/precache-manifest.6922bc4e4453d82a863dd5894f58c196.js",
+    "precache-manifest.fd8272876a79664fd8abcddc69a50513.js": "/TheAfterHoursClub/precache-manifest.fd8272876a79664fd8abcddc69a50513.js",
     "service-worker.js": "/TheAfterHoursClub/service-worker.js",
-    "static/css/main.3bbb8174.chunk.css.map": "/TheAfterHoursClub/static/css/main.3bbb8174.chunk.css.map",
+    "static/css/main.d949af80.chunk.css.map": "/TheAfterHoursClub/static/css/main.d949af80.chunk.css.map",
     "static/js/2.563d57ae.chunk.js.LICENSE.txt": "/TheAfterHoursClub/static/js/2.563d57ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8336cb22.js",
     "static/js/2.563d57ae.chunk.js",
-    "static/css/main.3bbb8174.chunk.css",
-    "static/js/main.a028c87f.chunk.js"
+    "static/css/main.d949af80.chunk.css",
+    "static/js/main.22946e89.chunk.js"
   ]
 }
