@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TheAfterHoursClub/precache-manifest.fd8272876a79664fd8abcddc69a50513.js"
+  "/TheAfterHoursClub/precache-manifest.7ec7394206424fb58717dfcefb154cea.js"
 );
 
 self.addEventListener('message', (event) => {
