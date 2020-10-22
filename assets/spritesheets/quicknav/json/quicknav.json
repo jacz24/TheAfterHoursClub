@@ -1,0 +1,87 @@
+{"frames": {
+
+"quicklinks-2.png":
+{
+	"frame": {"x":1,"y":916,"w":164,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":137,"w":164,"h":69},
+	"sourceSize": {"w":240,"h":240}
+},
+"quicklinks-3.png":
+{
+	"frame": {"x":136,"y":750,"w":103,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":19,"w":103,"h":75},
+	"sourceSize": {"w":240,"h":240}
+},
+"quicklinks-4.png":
+{
+	"frame": {"x":1,"y":196,"w":236,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":236,"h":173},
+	"sourceSize": {"w":240,"h":240}
+},
+"quicklinks-5.png":
+{
+	"frame": {"x":1,"y":750,"w":164,"h":133},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":73,"w":164,"h":133},
+	"sourceSize": {"w":240,"h":240}
+},
+"quicklinks-6.png":
+{
+	"frame": {"x":213,"y":584,"w":27,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":202,"y":52,"w":27,"h":146},
+	"sourceSize": {"w":240,"h":240}
+},
+"quicklinks-7.png":
+{
+	"frame": {"x":1,"y":371,"w":211,"h":220},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":220},
+	"sourceSize": {"w":240,"h":240}
+},
+"quicklinks-8.png":
+{
+	"frame": {"x":167,"y":827,"w":39,"h":63},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":15,"w":39,"h":63},
+	"sourceSize": {"w":240,"h":240}
+},
+"quicklinks-comp.png":
+{
+	"frame": {"x":1,"y":584,"w":210,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":164},
+	"sourceSize": {"w":240,"h":240}
+},
+"quicklinks-play.png":
+{
+	"frame": {"x":1,"y":1,"w":193,"h":240},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":240},
+	"sourceSize": {"w":240,"h":240}
+}},
+"animations": {
+	"quicklinks": ["quicklinks-2.png","quicklinks-3.png","quicklinks-4.png","quicklinks-5.png","quicklinks-6.png","quicklinks-7.png","quicklinks-8.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "quicknavpacked.png",
+	"format": "RGBA8888",
+	"size": {"w":242,"h":986},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:99e0b26885c3c04ccb4ed12da67d0039:3a70f82b63ae474fc3722de59cd78e50:fbb72a39d9f4aa515383eda0344902dc$"
+}
+}
